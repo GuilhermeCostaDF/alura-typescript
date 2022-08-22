@@ -1,5 +1,4 @@
 export class Negociacao {
-    //criando propriedades privadas com o "#"
     private _data: Date; 
     private _quantidade: number;
     private _valor: number;
